@@ -1,6 +1,6 @@
 # Mechanical Replacement Keyboard for Amiga 500 and 1200
 
-Many years ago I got an Amiga 500 with missing keyboard. Since then original keyboards became so expensive, that custom mechanical keyboards can be build for the price of an original.
+Many years ago I got an Amiga 500 with missing keyboard. Since then original keyboards became so expensive, that custom mechanical keyboards can be built for the price of an original.
 Unfortunately, Amiga-style Cherry MX keycaps are unavailable, so I used DSA profile blank keycaps.
 
 ## Known bugs
